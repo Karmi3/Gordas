@@ -1,0 +1,28 @@
+*{
+	background: lightblue;
+}
+
+.titulo {
+	font-size: 50px;
+	text-align: center;
+	font-family: Times New Roman;
+}
+
+.contenido p{
+	font-size: 20px;
+	text-align: center;
+}
+
+.contenido img {
+	margin-left: 35%;
+	height: 400px;
+}
+
+.contenido a{
+	color: blue;
+	margin-left: 45%;
+}
+
+.contenido a:hover{
+	color: black;
+}
